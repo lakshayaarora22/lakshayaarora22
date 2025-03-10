@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshayaarora22&label=Profile%20views&color=0e75b6&style=flat" alt="lakshayaarora22" /> </p>
 
-- 🔭 I’m currently working as a Software Engineer at [Amazon]
+- 🔭 I’m currently working as a Software Engineer at Amazon
 
 - 💬 Ask me about **Competitive Programming, Development**
 
