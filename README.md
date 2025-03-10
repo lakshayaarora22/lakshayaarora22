@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshayaarora22&label=Profile%20views&color=0e75b6&style=flat" alt="lakshayaarora22" /> </p>
 
-- 🔭 I’m currently working as a Software Engineer at [BrowserStack](https://www.browserstack.com/)
+- 🔭 I’m currently working as a Software Engineer at [Amazon]
 
 - 💬 Ask me about **Competitive Programming, Development**
 
-- 👯 I have previously worked as an Software Engineering Intern at [PlaySimple Games](https://playsimple.in/)
+- 👯 I have previously worked as an SDE - Backend at Browserstack & as an SDE Intern at [PlaySimple Games](https://playsimple.in/)
 
 - 📫 How to reach me **lakshayemail@gmail.com**
 
